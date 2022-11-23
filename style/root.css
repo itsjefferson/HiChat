@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Leelawadee UI";
+    src: url(../font/LeelawUI.ttf);
+}
+
+* {
+    font-family: 'Leelawadee UI';
+}
+
+body {
+    padding: 5px 10px;
+}
+
+:root {
+    --main-color: rgb(80, 140, 160);
+}
